@@ -4,6 +4,7 @@
 [![Coverage](https://coveralls.io/repos/jaredhanson/node-xtraverse/badge.png)](https://coveralls.io/r/jaredhanson/node-xtraverse)
 [![Dependencies](https://david-dm.org/jaredhanson/node-xtraverse.png)](http://david-dm.org/jaredhanson/node-xtraverse)
 
+> Note: Forked, due to Unmaintained and vulnerabilities in the original repository [node-xtraverse](https://github.com/jaredhanson/node-xtraverse) and fixed [Misinterpretation of malicious XML input](https://www.npmjs.com/advisories/1650) vulnerabilities.
 
 Simplified traversal and building of an XML DOM.
 
